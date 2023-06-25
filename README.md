@@ -30,8 +30,8 @@
 
 - Management
 
-  - yarn (berry with P'n'P)
-  - mono repo with yarn
+  - pnpm
+  - mono repo with turbo-repo
   - husky with lint-staged
 
 - formatting and lint
